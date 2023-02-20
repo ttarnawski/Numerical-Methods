@@ -5,7 +5,7 @@ This repository consists of 13 topics with implementation tasks. Each topic has 
 langugage: Python  
 libraries: NumPy, Matplotlib, SciPy
 
-* 1. Python Introduction  
+- 1. Python Introduction  
 * 2. Matplotlib Introduction  
 * 3. Numerical Errors and Memory Profiler  
 * 4. Interpolation   
