@@ -1,11 +1,11 @@
 # Numerical-Methods
 AGH University of Science Course
 
-This repository consists of 14 topics with implementation tasks 
+This repository consists of 13 topics with implementation tasks. Each topic has 2 files (except 11. and 13.)mai  
 langugage: Python  
 libraries: NumPy, Matplotlib, SciPy
 
-1 - Python Introduction  
+*1 - Python Introduction  
 2 - Matplotlib Introduction  
 3 - Numerical Errors and Memory Profiler  
 4 - Interpolation   
