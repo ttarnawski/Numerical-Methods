@@ -1,5 +1,5 @@
 # Numerical-Methods
-AGH University of Science Course
+AGH University of Science and Technology Course
 
 This repository consists of 13 topics with implementation tasks. Each topic has 2 files (except 11. and 13.):
  * main.py - includes self implemented numerical methods and other functions
